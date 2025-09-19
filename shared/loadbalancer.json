@@ -6,7 +6,8 @@
             "type": "string"
         },
         "loadBalancerName": {
-            "type": "string"
+            "type": "string",
+            "defaultValue": "PublicLoadBalancer"
         },
         "numberOfInstances": {
             "type": "int"
